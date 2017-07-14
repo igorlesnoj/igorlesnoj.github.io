@@ -1,0 +1,27 @@
+
+/* fonts */
+
+	@font-face {
+		font-family: 'PFBeauSansPro-Bbook';
+		src: url(fonts/PFBeauSansPro/PFBeauSansPro-Bbook.woff2) format('woff2'),
+			 url(fonts/PFBeauSansPro/PFBeauSansPro-Bbook.woff) format('woff');
+		font-weight: normal;
+		font-style: normal;
+	}
+
+	@font-face {
+		font-family: 'PFBeauSansPro-Light';
+		src: url(fonts/PFBeauSansPro/PFBeauSansPro-Light.woff2) format('woff2'),
+			 url(fonts/PFBeauSansPro/PFBeauSansPro-Light.woff) format('woff');
+		font-weight: normal;
+		font-style: normal;
+	}
+
+	@font-face {
+		font-family: 'PFBeauSansPro-Thin';
+		src: url(fonts/PFBeauSansPro/PFBeauSansPro-Thin.woff2) format('woff2'),
+			 url(fonts/PFBeauSansPro/PFBeauSansPro-Thin.woff) format('woff');
+		font-weight: normal;
+		font-style: normal;
+	}
+
